@@ -3,9 +3,14 @@ body {
   }
 h1{
     font-family: 'Pacifico', cursive;
+    font-size: 60px;
 }
 h2 {
     font-family: 'Jua', sans-serif;
+    font-size: 30px;
+}
+button{
+    font-size: 20px;
 }
   
   .pineapple {
