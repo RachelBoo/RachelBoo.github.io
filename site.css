@@ -1,6 +1,12 @@
 body {
     background-color: #fafcb8;
   }
+h1{
+    font-family: 'Pacifico', cursive;
+}
+h2 {
+    font-family: 'Jua', sans-serif;
+}
   
   .pineapple {
     font-size: 90vmin;
